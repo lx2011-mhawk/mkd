@@ -70,7 +70,7 @@ const mourya = {
 
 ---
 
-## 📊 GitHub Stats
+
 
 <div align="center">
 
